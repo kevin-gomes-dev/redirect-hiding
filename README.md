@@ -1,5 +1,4 @@
-Simple way to hide code from server (for example, your page contains code you don't want clients seeing if
-they used view page source)
+Simple way to hide code from page's source code (for example, your page contains code you don't want clients seeing if they used view page source).
 
 Comments are added in the individual files, but for an outline:
 
